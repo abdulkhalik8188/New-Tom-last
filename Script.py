@@ -58,7 +58,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/MLZ_BOTZ)</code>
+<code>[Button Text](buttonurl:https://t.me/bots_up)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -157,7 +157,7 @@ Nᴀᴍᴇ - {}
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ᴀꜰsᴀʟʜᴀsʜɪᴍ
-• ᴜꜱᴇʀɴᴀᴍᴇ : <a href='https://t.me/AFxSU'>@af_x_su</a>
+• ᴜꜱᴇʀɴᴀᴍᴇ : <a href='https://t.me/bots_up'>@af_x_su</a>
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/af_x_su'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -170,9 +170,9 @@ Nᴀᴍᴇ - {}
 <b>@at3movies {file_name}
 
 ╭────── • ◆ • ──────╮
-📮ᴊᴏɪɴ : <a href='https://t.me/CKTalkies'>ᴄʜᴀɴɴᴇʟ</a>
-🔖 ᴍᴏᴠɪᴇs : <a href='https://t.me/at3movies'>ɢʀᴏᴜᴘ</a>
-🖤 Dᴀʀᴋ Mᴏᴅᴇ : <a href='https://t.me/addtheme/DQ_The_File_Donor_Theme'>Tᴏᴜᴄʜ</a>
+📮ᴊᴏɪɴ : <a href='https://t.me/pathan_h'>ᴄʜᴀɴɴᴇʟ</a>
+🔖 ᴍᴏᴠɪᴇs : <a href='https://t.me/pathan_h'>ɢʀᴏᴜᴘ</a>
+🖤 Dᴀʀᴋ Mᴏᴅᴇ : <a href='https://t.me/bots_up'>Tᴏᴜᴄʜ</a>
 ╰────── • ◆ • ──────╯
   ♡ ㅤ  ❍ㅤ     ⎙     ⌲
   ˡᶦᵏᵉ ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ</b>"""
@@ -255,7 +255,7 @@ Now You can start earning 💸 money today with our Simple and easy-to-use bot!
 ›› Step 3: Copy your API from website and then, simply set your website and API Using the
 /set_shortner command
 
-› Like this :  /set_shortner <code>shorturllink.in b4d510e7b1e56da54f43c9e27569ee0a281121db</code>
+› Like this :  /set_shortner <code>mdiskshortner.link e0c6422a17c2c50c426815f666fb86c826684866</code>
 
 
 ★ This bot will automatically converts links with Your Api and will provide your links.
@@ -429,7 +429,7 @@ coммand and υѕeѕ
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ᴀꜰsᴀʟ ʜᴀsʜɪᴍ
 • ᴜꜱᴇʀɴᴀᴍᴇ : @af_x_su
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/crazyspiderr'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Abdul88822'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 """
     CLOSE_TXT = """
 <b>⚙️ {message.from_user.mention} Fɪʟᴛᴇʀ Fᴏʀ {search} Cʟᴏꜱᴇᴅ 🗑️</b>"""
